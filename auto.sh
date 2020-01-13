@@ -6,4 +6,4 @@ sudo apt install brave-browser
 
 https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb  && sudo dpkg -i https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
-sudo apt-get install spacefm deadbeef zenity radiotray inkscape cherrytree webp gthumb wine playonlinux
+sudo apt-get install -y spacefm deadbeef zenity radiotray inkscape cherrytree webp gthumb wine playonlinux
